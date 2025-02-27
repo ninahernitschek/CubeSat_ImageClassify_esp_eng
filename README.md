@@ -8,7 +8,7 @@ Welcome to the CubeSat Image Classify Hackathon project! This project includes t
 - *Notebook 2*: Reading and analyzing the astronomical data
 - *Notebook 3*: Classification using a machine learning model
 - *Notebook 4*: Classification using a deep learning model
-
+- *Notebook 5*: Evaluation
 
 
 
@@ -18,6 +18,7 @@ Welcome to the CubeSat Image Classify Hackathon project! This project includes t
 - *Notebook 2*: Lectura y análisis de los datos astronómicos
 - *Notebook 3*: Clasificación utilizando un modelo de aprendizaje automático
 - *Notebook 4*: Clasificación utilizando un modelo de aprendizaje profundo
+- *Notebook 5*: Evaluación
 
 
 
